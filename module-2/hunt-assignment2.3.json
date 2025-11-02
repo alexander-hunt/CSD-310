@@ -1,0 +1,15 @@
+{
+    "birthdate": "02201998",
+    "dependents": [
+        {
+            "children": "2",
+            "cousins": "1"
+        }
+    ],
+    "roles": [
+        {
+            "employed": true,
+            "parent": true
+        }
+    ]
+}
